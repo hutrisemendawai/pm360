@@ -69,4 +69,4 @@ PM360 is a simple web application for tracking and managing your investment port
 
 ## License
 
-MIT © Your Name
+MIT 
